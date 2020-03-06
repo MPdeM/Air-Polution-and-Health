@@ -1,4 +1,4 @@
-# Project_1: Air Pollution and Health
+# Project_1: Air Pollution and Health 
 
 Air pollution is a major healh concern and is associated with pulmonary morbidity and mortality. 
 
@@ -10,7 +10,7 @@ The correlation between respiratory diseases like asthma and COPD and air pollut
 3) census data forthe same recent years.
 With this data we wanted to create heat maps and do colocatization of reported pollutant concentrations and prevalence in US. We also wanted to check if the there was more prevalence of cases where people has lower income becouse US health system is not public like in other countries in EU. 
 
-Methodology: we took full advantage of the tools learned in class (DATA ANALYTICS AND VISUALIZATION BOOT CAMP HARVARD EXTENSION SCHOOL 2019-2020) and includes the use of the scrips that covered: graphical representation with Matplotlib, APIs (census API, geolocation), basic statistical analysis using Scipy, and gmaps. 
+Methodology: We used  Matplotlib, APIs (census API, geolocation), basic statistical analysis using Scipy, and gmaps. 
 
 The data was extracted from the following sources: 
 
